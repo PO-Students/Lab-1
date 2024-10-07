@@ -26,5 +26,5 @@ for (int i = 0; i < wysokosc; i++)  // цикл по строкам таблиц
             wiersz += "<";  // заполняем символами "<"
         }
     }
-    Console.WriteLine(wiersz);  // выводим строку на экран 1
+    Console.WriteLine(wiersz);  // выводим строку на экран 2
 }
